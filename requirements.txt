@@ -1,0 +1,14 @@
+torch==1.9.1
+numpy
+scipy
+pypardiso
+opencv-python
+scikit-image
+rasterio
+matplotlib
+tqdm
+tensorboardX
+pytorch-msssim
+lpips
+timm
+thop
